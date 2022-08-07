@@ -8,6 +8,7 @@ license = "Apache License 2.0"
 [tool.poetry.dependencies]
 python = "^3.9"
 aiorun = "^2022.4.1"
+celery = "^5.2"
 
 [tool.poetry.dev-dependencies]
 
